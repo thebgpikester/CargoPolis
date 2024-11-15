@@ -9,20 +9,29 @@ When the cargo is spawned this script checks the contents and replaces any bulls
 
 So, exactly?
 
-If its any of these - 
-ammo_cargo
-iso_container
-oiltank_cargo
-barrels_cargo
+If its any of these:
+
+ammo_cargo, 
+
+iso_container, 
+
+oiltank_cargo,
+
+barrels_cargo, 
+
 fueltank_cargo
 
 then
 
-If its ammo_cargo then you only get 3 weapons
-If its an ISO conainer, you get 24 weapons
-if its oiltank, you get a DCS amount of JetFuel
-If its a barrel, you get  a DCS amount of gasoline
-If its a fueltank you get  a DCS amount of diesel
+If its ammo_cargo then you only get 3 weapons,
+
+If its an ISO conainer, you get 24 weapons,
+
+if its oiltank, you get a DCS amount of JetFuel,
+
+If its a barrel, you get  a DCS amount of gasoline,
+
+If its a fueltank you get  a DCS amount of diesel.
 
 If its anything else, like aircraft, or a mix, you get the first equipment only or then the right fuel shape.
 If its any other shape at all, you get nothing, the script empties and returns everything thats not valid.
