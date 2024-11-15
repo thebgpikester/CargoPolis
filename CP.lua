@@ -1,3 +1,4 @@
+-- Pikey November 2024. thebgpikester@hotmail.com Copyright GPL3.0
 -- 1. Anyone can copy, modify and distribute this software.
 -- 2. You have to include the license and copyright notice with each and every distribution.
 -- 3. You can use this software privately.
@@ -9,7 +10,7 @@
 -- 9. The software author or license can not be held liable for any damages inflicted by the software.
 -- 10. The License of GPL 3.0 is at the bottom of this file
 --
---This is a DCS lua script that gives standardized cargo when using Dynamic Cargo warehouses by removing ridiculous shit from the contents.
+-- This is a DCS lua script that gives standardized cargo when using Dynamic Cargo warehouses by removing ridiculous shit from the contents.
 --
 -- You must not SPAWN the following shapes in the game, these are reserved! (you can use them, they can preexist, but dont cause them to appear dynamically)
 
